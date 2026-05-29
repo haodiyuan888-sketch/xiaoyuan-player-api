@@ -1,0 +1,13 @@
+{
+  "name": "xiaoyuan-player-api",
+  "version": "1.0.0",
+  "description": "小源播放器后端 API 服务",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "@neteasecloudmusicapienhanced/api": "^4.28.0"
+  }
+}
